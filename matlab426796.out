@@ -1,0 +1,15 @@
+License checkout failed.
+License Manager Error -15
+MATLAB is unable to connect to the license server. 
+Check that the license manager has been started, and that the MATLAB client machine can communicate
+with the license server.
+
+Troubleshoot this issue by visiting: 
+http://www.mathworks.com/support/lme/R2016a/15
+
+Diagnostic Information:
+Feature: MATLAB 
+License path: /home/latimerb/.matlab/R2016a_licenses:/cluster/software/matlab/matlab-R2016a/licenses/license.dat:/
+cluster/software/matlab/matlab-R2016a/licenses/network.lic 
+Licensing error: -15,570. System Error: 115
+srun: error: tc-m710-hpc0-node625: task 0: Exited with exit code 1
